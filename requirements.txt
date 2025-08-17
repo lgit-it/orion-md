@@ -1,0 +1,14 @@
+
+langchain
+langchain-community
+langchain-core
+ollama
+fastapi
+uvicorn
+requests
+sentence-transformers
+scikit-learn
+numpy
+chromadb
+pydantic_settings
+unstructured
